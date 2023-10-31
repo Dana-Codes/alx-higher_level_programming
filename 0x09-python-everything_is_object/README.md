@@ -30,9 +30,3 @@ $ sudo apt-get install python3
 ## :mag: License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holbertonschool-higher_level_programming/blob/master/LICENSE.md) file for details
-
-
-
-## :mega: Acknowledgments
-
-* Holberton School (providing guidance)
